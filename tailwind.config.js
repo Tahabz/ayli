@@ -2,7 +2,21 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#09429A",
+        active: "#E861A9",
+      },
+      backgroundImage: {
+        horizontalGradient:
+          "linear-gradient(90deg, rgba(239,126,192,1) 0%, rgba(235,102,172,1) 23%, rgba(226,40,123,1) 96%, rgba(225,31,116,1) 100%)",
+        verticalGradient:
+          "linear-gradient(190deg, rgba(239,126,192,1) 0%, rgba(235,102,172,1) 23%, rgba(226,40,123,1) 96%, rgba(225,31,116,1) 100%);",
+      },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+      },
+    },
   },
   plugins: [],
-};
+}

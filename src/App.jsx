@@ -1,7 +1,7 @@
 import "./App.css"
 
 function App() {
-  return <div className=" hidden bg-black">hello</div>
+  return <div className="bg-horizontalGradient">hello</div>
 }
 
 export default App
