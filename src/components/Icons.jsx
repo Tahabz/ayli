@@ -1,5 +1,63 @@
 import React from "react"
 
+export function BurgerMenuIcon({ className }) {
+  return (
+    <svg viewBox="0 0 512 358.4" className={className}>
+      <defs>
+        <linearGradient
+          id="linear-gradient"
+          x1="0.5"
+          x2="0.5"
+          y2="1"
+          gradientUnits="objectBoundingBox"
+        >
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.339" stop-color="#eb66ac" />
+          <stop offset="0.925" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
+        </linearGradient>
+      </defs>
+      <g id="Group_708" data-name="Group 708" transform="translate(0 -76.8)">
+        <path
+          id="Path_211"
+          data-name="Path 211"
+          d="M128,102.4a25.6,25.6,0,0,1,25.6-25.6H486.4a25.6,25.6,0,1,1,0,51.2H153.6A25.6,25.6,0,0,1,128,102.4Zm358.4,128H25.6a25.6,25.6,0,0,0,0,51.2H486.4a25.6,25.6,0,1,0,0-51.2Zm0,153.6H256a25.6,25.6,0,0,0,0,51.2H486.4a25.6,25.6,0,1,0,0-51.2Z"
+          fill="url(#linear-gradient)"
+        />
+      </g>
+    </svg>
+  )
+}
+
+export function CloseIcon({ className }) {
+  return (
+    <svg viewBox="0 0 329.27 329.262" className={className}>
+      <defs>
+        <linearGradient
+          id="linear-gradient"
+          x1="0.5"
+          x2="0.5"
+          y2="1"
+          gradientUnits="objectBoundingBox"
+        >
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.318" stop-color="#eb66ac" />
+          <stop offset="0.92" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
+        </linearGradient>
+      </defs>
+      <g id="Group_709" data-name="Group 709" transform="translate(0 -0.136)">
+        <path
+          id="Path_212"
+          data-name="Path 212"
+          d="M194.8,164.77,323.013,36.555A21.329,21.329,0,1,0,292.849,6.391L164.633,134.6,36.422,6.391A21.329,21.329,0,1,0,6.258,36.555L134.468,164.77,6.259,292.984a21.329,21.329,0,1,0,30.164,30.164l128.21-128.214L292.849,323.148a21.329,21.329,0,1,0,30.164-30.164Zm0,0"
+          fill="url(#linear-gradient)"
+        />
+      </g>
+    </svg>
+  )
+}
+
 export function CheckMarkIcon({ className }) {
   return (
     <svg

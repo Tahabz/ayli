@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         primary: "#09429A",
-        active: "#E861A9",
+        active: "#E2287B",
+        gray: "#B4B4B4",
       },
       backgroundImage: {
         horizontalGradient:

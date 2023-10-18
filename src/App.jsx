@@ -1,7 +1,13 @@
 import "./App.css"
+import NavBar from "./components/NavBar"
 
 function App() {
-  return <div className="bg-horizontalGradient">hello</div>
+  return (
+    <>
+      <NavBar />
+      <div className="r">hello</div>
+    </>
+  )
 }
 
 export default App

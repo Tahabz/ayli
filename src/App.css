@@ -4,5 +4,18 @@
 @tailwind utilities;
 
 body{
-    @apply font-poppins
+    @apply h-full w-full font-poppins
 }
+
+#root{
+    @apply  lg:container lg:mx-auto
+}
+
+.nav {
+    transform: translateX(100%);
+    transition: transform 0.5s;
+  }
+  
+  .nav.click {
+    transform: translateX(0);
+  }
