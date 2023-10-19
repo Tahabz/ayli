@@ -10,10 +10,10 @@ export function BurgerMenuIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.339" stop-color="#eb66ac" />
-          <stop offset="0.925" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.339" stopColor="#eb66ac" />
+          <stop offset="0.925" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_708" data-name="Group 708" transform="translate(0 -76.8)">
@@ -39,10 +39,10 @@ export function CloseIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.318" stop-color="#eb66ac" />
-          <stop offset="0.92" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.318" stopColor="#eb66ac" />
+          <stop offset="0.92" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_709" data-name="Group 709" transform="translate(0 -0.136)">
@@ -73,10 +73,10 @@ export function CheckMarkIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.231" stop-color="#eb66ac" />
-          <stop offset="0.9" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.231" stopColor="#eb66ac" />
+          <stop offset="0.9" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <path
@@ -132,10 +132,10 @@ export function GiftCardIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.208" stop-color="#eb66ac" />
-          <stop offset="0.911" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.208" stopColor="#eb66ac" />
+          <stop offset="0.911" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_642" data-name="Group 642" transform="translate(0 -76)">
@@ -168,10 +168,10 @@ export function PercentageIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.204" stop-color="#eb66ac" />
-          <stop offset="0.907" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.204" stopColor="#eb66ac" />
+          <stop offset="0.907" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g
@@ -223,10 +223,10 @@ export function CutIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#e861a9" />
-          <stop offset="0.243" stop-color="#eb66ac" />
-          <stop offset="0.841" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#e861a9" />
+          <stop offset="0.243" stopColor="#eb66ac" />
+          <stop offset="0.841" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
         <linearGradient
           id="linear-gradient-2"
@@ -235,10 +235,10 @@ export function CutIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#e861a9" />
-          <stop offset="0.251" stop-color="#eb66ac" />
-          <stop offset="0.87" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#e861a9" />
+          <stop offset="0.251" stopColor="#eb66ac" />
+          <stop offset="0.87" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g
@@ -363,10 +363,10 @@ export function LineIcon({ className }) {
           y2="0.5"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.293" stop-color="#eb66ac" />
-          <stop offset="0.909" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.293" stopColor="#eb66ac" />
+          <stop offset="0.909" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <path
@@ -391,10 +391,10 @@ export function LampEuroIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.222" stop-color="#eb66ac" />
-          <stop offset="0.895" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.222" stopColor="#eb66ac" />
+          <stop offset="0.895" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_661" data-name="Group 661" transform="translate(-68.522)">
@@ -427,10 +427,10 @@ export function BagIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.331" stop-color="#eb66ac" />
-          <stop offset="0.916" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.331" stopColor="#eb66ac" />
+          <stop offset="0.916" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g
@@ -462,10 +462,10 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.331" stop-color="#eb66ac" />
-          <stop offset="0.916" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.331" stopColor="#eb66ac" />
+          <stop offset="0.916" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
         <linearGradient
           id="linear-gradient-2"
@@ -474,10 +474,10 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.272" stop-color="#eb66ac" />
-          <stop offset="0.912" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.272" stopColor="#eb66ac" />
+          <stop offset="0.912" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g
@@ -528,10 +528,10 @@ export function QuotesIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.326" stop-color="#eb66ac" />
-          <stop offset="0.9" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.326" stopColor="#eb66ac" />
+          <stop offset="0.9" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_585" data-name="Group 585" transform="translate(0 -29.235)">
