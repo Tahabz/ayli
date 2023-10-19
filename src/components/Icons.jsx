@@ -414,7 +414,7 @@ export function LampEuroIcon({ className }) {
 
 export function BagIcon({ className }) {
   return (
-    <svg viewBox="0 0 115.033 104.994" className={className}>
+    <svg viewBox="0 0 72.357 66.042" className={className}>
       <defs>
         <linearGradient
           id="linear-gradient"
@@ -423,22 +423,22 @@ export function BagIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stopColor="#ef7ec0" />
-          <stop offset="0.331" stopColor="#eb66ac" />
-          <stop offset="0.916" stopColor="#e2287b" />
-          <stop offset="1" stopColor="#e11f74" />
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.314" stop-color="#eb66ac" />
+          <stop offset="0.912" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
         </linearGradient>
       </defs>
       <g
         id="Group_704"
         data-name="Group 704"
-        transform="translate(85.406 -82.396)"
+        transform="translate(-2.594 -3.396)"
       >
         <path
           id="Path_210"
           data-name="Path 210"
-          d="M31.065,23.179V16.024A10.7,10.7,0,0,1,40.176,5.445l7.46-1.119a84.08,84.08,0,0,1,24.949,0l7.46,1.119a10.7,10.7,0,0,1,9.111,10.579v7.154l10.481.844a17.489,17.489,0,0,1,15.856,14.639,165.885,165.885,0,0,1,0,53.041,17.489,17.489,0,0,1-15.856,14.639l-11.447.917a349.027,349.027,0,0,1-56.159,0l-11.447-.917A17.489,17.489,0,0,1,4.728,91.7a165.891,165.891,0,0,1,0-53.041A17.489,17.489,0,0,1,20.584,24.029ZM49,13.395a74.908,74.908,0,0,1,22.222,0l7.46,1.119a1.529,1.529,0,0,1,1.3,1.51v6.512a349.028,349.028,0,0,0-39.747,0V16.018a1.529,1.529,0,0,1,1.3-1.51ZM32.771,32.241a340.1,340.1,0,0,1,54.68,0L98.9,33.17a8.316,8.316,0,0,1,7.546,6.959c.379,2.354.7,4.708.978,7.081a107.115,107.115,0,0,1-94.622,0q.4-3.55.978-7.081a8.316,8.316,0,0,1,7.546-6.959ZM11.98,56.97a116.293,116.293,0,0,0,96.261,0,156.713,156.713,0,0,1-1.8,33.265A8.316,8.316,0,0,1,98.9,97.2l-11.447.917a340.094,340.094,0,0,1-54.68,0L21.324,97.2a8.316,8.316,0,0,1-7.546-6.965,156.646,156.646,0,0,1-1.8-33.265Z"
-          transform="translate(-88 79)"
+          d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
+          transform="translate(0 0)"
           fill-rule="evenodd"
           fill="url(#linear-gradient)"
         />
@@ -449,7 +449,7 @@ export function BagIcon({ className }) {
 
 export function BagStarIcon({ className }) {
   return (
-    <svg viewBox="0 0 137.369 111.994" className={className}>
+    <svg viewBox="0 0 84.11 68.715" className={className}>
       <defs>
         <linearGradient
           id="linear-gradient"
@@ -458,10 +458,10 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stopColor="#ef7ec0" />
-          <stop offset="0.331" stopColor="#eb66ac" />
-          <stop offset="0.916" stopColor="#e2287b" />
-          <stop offset="1" stopColor="#e11f74" />
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.314" stop-color="#eb66ac" />
+          <stop offset="0.912" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
         </linearGradient>
         <linearGradient
           id="linear-gradient-2"
@@ -470,40 +470,36 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stopColor="#ef7ec0" />
-          <stop offset="0.272" stopColor="#eb66ac" />
-          <stop offset="0.912" stopColor="#e2287b" />
-          <stop offset="1" stopColor="#e11f74" />
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.272" stop-color="#eb66ac" />
+          <stop offset="0.912" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
         </linearGradient>
       </defs>
-      <g
-        id="Group_707"
-        data-name="Group 707"
-        transform="translate(-313 -3470.176)"
-      >
+      <g id="Group_708" data-name="Group 708" transform="translate(-478 -3482)">
         <g
           id="Group_706"
           data-name="Group 706"
-          transform="translate(398.406 3387.781)"
+          transform="translate(475.406 3478.604)"
         >
           <path
             id="Path_210"
             data-name="Path 210"
-            d="M31.065,23.179V16.024A10.7,10.7,0,0,1,40.176,5.445l7.46-1.119a84.08,84.08,0,0,1,24.949,0l7.46,1.119a10.7,10.7,0,0,1,9.111,10.579v7.154l10.481.844a17.489,17.489,0,0,1,15.856,14.639,165.885,165.885,0,0,1,0,53.041,17.489,17.489,0,0,1-15.856,14.639l-11.447.917a349.027,349.027,0,0,1-56.159,0l-11.447-.917A17.489,17.489,0,0,1,4.728,91.7a165.891,165.891,0,0,1,0-53.041A17.489,17.489,0,0,1,20.584,24.029ZM49,13.395a74.908,74.908,0,0,1,22.222,0l7.46,1.119a1.529,1.529,0,0,1,1.3,1.51v6.512a349.028,349.028,0,0,0-39.747,0V16.018a1.529,1.529,0,0,1,1.3-1.51ZM32.771,32.241a340.1,340.1,0,0,1,54.68,0L98.9,33.17a8.316,8.316,0,0,1,7.546,6.959c.379,2.354.7,4.708.978,7.081a107.115,107.115,0,0,1-94.622,0q.4-3.55.978-7.081a8.316,8.316,0,0,1,7.546-6.959ZM11.98,56.97a116.293,116.293,0,0,0,96.261,0,156.713,156.713,0,0,1-1.8,33.265A8.316,8.316,0,0,1,98.9,97.2l-11.447.917a340.094,340.094,0,0,1-54.68,0L21.324,97.2a8.316,8.316,0,0,1-7.546-6.965,156.646,156.646,0,0,1-1.8-33.265Z"
-            transform="translate(-88 79)"
+            d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
+            transform="translate(0 0)"
             fill-rule="evenodd"
             fill="url(#linear-gradient)"
           />
         </g>
         <g
-          id="Group_705"
-          data-name="Group 705"
-          transform="translate(393.495 3527.194)"
+          id="Group_707"
+          data-name="Group 707"
+          transform="translate(529.926 3519.267)"
         >
           <path
             id="Path_206"
             data-name="Path 206"
-            d="M56.294,24.322,44.221,36.09l2.851,16.621a1.938,1.938,0,0,1-2.812,2.043L29.333,46.907,14.408,54.752A1.938,1.938,0,0,1,11.6,52.709l2.851-16.621L2.372,24.322a1.938,1.938,0,0,1,1.076-3.306l16.685-2.423L27.595,3.473a2.018,2.018,0,0,1,3.477,0l7.462,15.121,16.685,2.423a1.942,1.942,0,0,1,1.076,3.306Z"
+            d="M31.864,14.532,25.2,21.026,26.775,30.2a1.069,1.069,0,0,1-1.552,1.127l-8.237-4.33L8.751,31.324A1.069,1.069,0,0,1,7.2,30.2l1.573-9.171L2.11,14.532A1.069,1.069,0,0,1,2.7,12.708l9.207-1.337,4.117-8.344a1.114,1.114,0,0,1,1.919,0l4.117,8.344,9.207,1.337a1.072,1.072,0,0,1,.594,1.824Z"
             transform="translate(0 0)"
             fill="url(#linear-gradient-2)"
           />
@@ -569,5 +565,324 @@ export function ArrowLeftIcon({ className }) {
         />
       </g>
     </svg>
+  )
+}
+
+export function TimeLine({ className }) {
+  return (
+    <>
+      <svg viewBox="0 0 1187.915 624.291" className={className}>
+        <defs>
+          <linearGradient
+            id="linear-gradient"
+            x1="0.5"
+            x2="0.5"
+            y2="1"
+            gradientUnits="objectBoundingBox"
+          >
+            <stop offset="0" stop-color="#ef7ec0" />
+            <stop offset="0.276" stop-color="#eb66ac" />
+            <stop offset="0.904" stop-color="#e2287b" />
+            <stop offset="1" stop-color="#e11f74" />
+          </linearGradient>
+          <linearGradient
+            id="linear-gradient-4"
+            x1="0.5"
+            x2="0.5"
+            y2="1"
+            gradientUnits="objectBoundingBox"
+          >
+            <stop offset="0" stop-color="#ef7ec0" />
+            <stop offset="0.222" stop-color="#eb66ac" />
+            <stop offset="0.895" stop-color="#e2287b" />
+            <stop offset="1" stop-color="#e11f74" />
+          </linearGradient>
+          <linearGradient
+            id="linear-gradient-6"
+            x1="0.5"
+            x2="0.5"
+            y2="1"
+            gradientUnits="objectBoundingBox"
+          >
+            <stop offset="0" stop-color="#ef7ec0" />
+            <stop offset="0.314" stop-color="#eb66ac" />
+            <stop offset="0.912" stop-color="#e2287b" />
+            <stop offset="1" stop-color="#e11f74" />
+          </linearGradient>
+          <linearGradient
+            id="linear-gradient-8"
+            x1="0.5"
+            x2="0.5"
+            y2="1"
+            gradientUnits="objectBoundingBox"
+          >
+            <stop offset="0" stop-color="#ef7ec0" />
+            <stop offset="0.272" stop-color="#eb66ac" />
+            <stop offset="0.912" stop-color="#e2287b" />
+            <stop offset="1" stop-color="#e11f74" />
+          </linearGradient>
+        </defs>
+        <g
+          id="Group_712"
+          data-name="Group 712"
+          transform="translate(-366 -2809.766)"
+        >
+          <g
+            id="Group_679"
+            data-name="Group 679"
+            transform="translate(117 74.766)"
+          >
+            <line
+              id="Line_2"
+              data-name="Line 2"
+              y2="190.5"
+              transform="translate(830.5 2843)"
+              fill="none"
+              stroke="#09429a"
+              stroke-width="2"
+            />
+            <line
+              id="Line_3"
+              data-name="Line 3"
+              y2="190.5"
+              transform="translate(830.5 3084.416)"
+              fill="none"
+              stroke="#09429a"
+              stroke-width="2"
+            />
+            <g
+              id="Group_668"
+              data-name="Group 668"
+              transform="translate(150 -82.416)"
+            >
+              <path
+                id="Ellipse_9"
+                data-name="Ellipse 9"
+                d="M17.958.8a17.164,17.164,0,0,0-6.679,32.971A17.164,17.164,0,0,0,24.637,2.146,17.051,17.051,0,0,0,17.958.8m0-.8A17.958,17.958,0,1,1,0,17.958,17.958,17.958,0,0,1,17.958,0Z"
+                transform="translate(663 2882)"
+                fill="#e2277b"
+              />
+              <circle
+                id="Ellipse_10"
+                data-name="Ellipse 10"
+                cx="12"
+                cy="12"
+                r="12"
+                transform="translate(669 2887.916)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+            <g
+              id="Group_670"
+              data-name="Group 670"
+              transform="translate(150 400.416)"
+            >
+              <path
+                id="Ellipse_9-2"
+                data-name="Ellipse 9"
+                d="M17.958.8a17.164,17.164,0,0,0-6.679,32.971A17.164,17.164,0,0,0,24.637,2.146,17.051,17.051,0,0,0,17.958.8m0-.8A17.958,17.958,0,1,1,0,17.958,17.958,17.958,0,0,1,17.958,0Z"
+                transform="translate(663 2882)"
+                fill="#e2277b"
+              />
+              <circle
+                id="Ellipse_10-2"
+                data-name="Ellipse 10"
+                cx="12"
+                cy="12"
+                r="12"
+                transform="translate(669 2887.916)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+            <g
+              id="Group_669"
+              data-name="Group 669"
+              transform="translate(150 159)"
+            >
+              <path
+                id="Ellipse_9-3"
+                data-name="Ellipse 9"
+                d="M17.958.8a17.164,17.164,0,0,0-6.679,32.971A17.164,17.164,0,0,0,24.637,2.146,17.051,17.051,0,0,0,17.958.8m0-.8A17.958,17.958,0,1,1,0,17.958,17.958,17.958,0,0,1,17.958,0Z"
+                transform="translate(663 2882)"
+                fill="#e2277b"
+              />
+              <circle
+                id="Ellipse_10-3"
+                data-name="Ellipse 10"
+                cx="12"
+                cy="12"
+                r="12"
+                transform="translate(669 2887.916)"
+                fill="url(#linear-gradient)"
+              />
+            </g>
+          </g>
+          <g
+            id="Group_663"
+            data-name="Group 663"
+            transform="translate(-40.085 37.766)"
+          >
+            <rect
+              id="Rectangle_45"
+              data-name="Rectangle 45"
+              width="501"
+              height="153"
+              rx="12"
+              transform="translate(1093 2772)"
+              fill="#fbfbfb"
+            />
+            <g
+              id="Group_662"
+              data-name="Group 662"
+              transform="translate(28 -76)"
+            >
+              <g
+                id="Group_661"
+                data-name="Group 661"
+                transform="translate(1043.478 2879)"
+              >
+                <path
+                  id="Path_204"
+                  data-name="Path 204"
+                  d="M196.692,214.337a6.927,6.927,0,0,1-7.406-1.523.105.105,0,0,0-.028-.019h7.133a1.88,1.88,0,0,0,0-3.759H187.35a7.581,7.581,0,0,1-.075-1.128h10.094a1.88,1.88,0,0,0-.019-3.759H188.4a9.966,9.966,0,0,1,.865-1.128,6.938,6.938,0,0,1,7.406-1.6,1.892,1.892,0,0,0,1.353-3.534,10.7,10.7,0,0,0-11.409,2.481,9.817,9.817,0,0,0-2.425,3.778h-.564a1.826,1.826,0,0,0-1.88,1.767v.038a1.836,1.836,0,0,0,1.729,1.842q0,.564.056,1.128a1.906,1.906,0,0,0-1.767,2.068,1.95,1.95,0,0,0,1.88,1.786h1a12.533,12.533,0,0,0,1.974,2.688,10.729,10.729,0,0,0,11.409,2.387,1.88,1.88,0,1,0-1.335-3.515Z"
+                  transform="translate(-91.944 -160.128)"
+                  fill="url(#linear-gradient-4)"
+                />
+                <path
+                  id="Path_205"
+                  data-name="Path 205"
+                  d="M100.463,20.77h-.395A25.147,25.147,0,0,0,82.174,63.1,17.908,17.908,0,0,1,87.1,76.163h-.714a1.88,1.88,0,1,0,0,3.759H114.6a1.88,1.88,0,1,0,0-3.759h-1.015A17.127,17.127,0,0,1,118.6,63.213a.189.189,0,0,0,.019-.056A25.116,25.116,0,0,0,100.463,20.77Zm15.432,39.848a21.015,21.015,0,0,0-6.052,15.545H90.876a21.775,21.775,0,0,0-5.958-15.657,21.062,21.062,0,0,1-5.752-14.962,21.731,21.731,0,0,1,21-21.014,21.308,21.308,0,0,1,21.6,21.372,21.72,21.72,0,0,1-5.864,14.718Zm-6.767,25.319H91.891a1.88,1.88,0,0,0,0,3.759h17.236a1.88,1.88,0,0,0,0-3.759ZM99.936,0a1.885,1.885,0,0,0-1.88,1.88v9.6a1.88,1.88,0,1,0,3.759,0V1.88A1.885,1.885,0,0,0,99.936,0Zm32.01,13.815a1.873,1.873,0,0,0-2.65-.075l-7.049,6.654a1.875,1.875,0,0,0,2.575,2.725l7.049-6.654A1.873,1.873,0,0,0,131.947,13.815ZM78.508,19.567l-6.767-6.861a1.874,1.874,0,1,0-2.688,2.613l.019.019L75.839,22.2a1.911,1.911,0,0,0,1.335.564,1.885,1.885,0,0,0,1.88-1.88A1.849,1.849,0,0,0,78.508,19.567Z"
+                  fill="url(#linear-gradient-4)"
+                />
+              </g>
+              <text
+                id="Consultant_en_portage_salarial"
+                data-name="Consultant en portage
+salarial"
+                transform="translate(1200 2913)"
+                fill="#09429a"
+                font-size="28"
+                font-family="Poppins-Medium, Poppins"
+                font-weight="500"
+              >
+                <tspan x="0" y="0">
+                  Consultant en portage
+                </tspan>
+                <tspan x="0" y="42">
+                  salarial
+                </tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Group_711" data-name="Group 711">
+            <rect
+              id="Rectangle_45-2"
+              data-name="Rectangle 45"
+              width="501"
+              height="153"
+              rx="12"
+              transform="translate(366 3057)"
+              fill="#fbfbfb"
+            />
+            <g
+              id="Group_705"
+              data-name="Group 705"
+              transform="translate(-1.947 2)"
+            >
+              <text
+                id="Société_de_portage"
+                data-name="Société de portage"
+                transform="translate(532 3140)"
+                fill="#09429a"
+                font-size="28"
+                font-family="Poppins-Medium, Poppins"
+                font-weight="500"
+              >
+                <tspan x="0" y="0">
+                  Société de portage
+                </tspan>
+              </text>
+              <g
+                id="Group_704"
+                data-name="Group 704"
+                transform="translate(434.353 3094.604)"
+              >
+                <path
+                  id="Path_210"
+                  data-name="Path 210"
+                  d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
+                  transform="translate(0 0)"
+                  fill-rule="evenodd"
+                  fill="url(#linear-gradient-6)"
+                />
+              </g>
+            </g>
+          </g>
+          <g id="Group_710" data-name="Group 710">
+            <rect
+              id="Rectangle_45-3"
+              data-name="Rectangle 45"
+              width="439"
+              height="118.056"
+              rx="12"
+              transform="translate(1053 3316)"
+              fill="#fbfbfb"
+            />
+            <g
+              id="Group_709"
+              data-name="Group 709"
+              transform="translate(0.449)"
+            >
+              <text
+                id="Société_cliente"
+                data-name="Société cliente"
+                transform="translate(1218.915 3385)"
+                fill="#09429a"
+                font-size="28"
+                font-family="Poppins-Medium, Poppins"
+                font-weight="500"
+              >
+                <tspan x="0" y="0">
+                  Société cliente
+                </tspan>
+              </text>
+              <g
+                id="Group_708"
+                data-name="Group 708"
+                transform="translate(641.551 -141)"
+              >
+                <g
+                  id="Group_706"
+                  data-name="Group 706"
+                  transform="translate(475.406 3478.604)"
+                >
+                  <path
+                    id="Path_210-2"
+                    data-name="Path 210"
+                    d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
+                    transform="translate(0 0)"
+                    fill-rule="evenodd"
+                    fill="url(#linear-gradient-6)"
+                  />
+                </g>
+                <g
+                  id="Group_707"
+                  data-name="Group 707"
+                  transform="translate(529.926 3519.267)"
+                >
+                  <path
+                    id="Path_206"
+                    data-name="Path 206"
+                    d="M31.864,14.532,25.2,21.026,26.775,30.2a1.069,1.069,0,0,1-1.552,1.127l-8.237-4.33L8.751,31.324A1.069,1.069,0,0,1,7.2,30.2l1.573-9.171L2.11,14.532A1.069,1.069,0,0,1,2.7,12.708l9.207-1.337,4.117-8.344a1.114,1.114,0,0,1,1.919,0l4.117,8.344,9.207,1.337a1.072,1.072,0,0,1,.594,1.824Z"
+                    transform="translate(0 0)"
+                    fill="url(#linear-gradient-8)"
+                  />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </>
   )
 }

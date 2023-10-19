@@ -61,11 +61,11 @@ export default function Advantages() {
               </>
             ) : null}
             <button
-              className="mt-6 group flex items-center gap-[.5rem]  text-active"
+              className="group mt-5 flex items-center gap-[.5rem]  text-active"
               onClick={handelViewMore}
             >
               {viewMore ? "Voir moins" : "Voir plus"}{" "}
-              <ArrowLeftIcon className="h-5 w-5 group-hover:animate-arrowAnimation" />
+              <ArrowLeftIcon className="group-hover:animate-arrowAnimation h-5 w-5" />
             </button>
           </div>
         </div>
