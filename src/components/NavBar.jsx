@@ -15,7 +15,7 @@ export default function NavBar() {
   return (
     <>
       <nav className="fixed left-0 top-0 z-[1] hidden w-full p-8 backdrop-blur-md lg:block">
-        <ul className="container mx-auto flex items-center justify-between">
+        <ul className="2xl:container 2xl:mx-auto flex items-center justify-between">
           <img src={logo} alt="Logo PORTAYLI" className="relative w-16" />
           <div className="flex  items-center lg:gap-24 2xl:gap-40">
             {links.map((e, index) => {
@@ -74,7 +74,7 @@ export default function NavBar() {
         )}
       </div>
       <nav
-        className={`nav fixed left-0 top-0 z-[1] flex h-full w-full items-center justify-center p-8  lg:hidden
+        className={`nav fixed left-0 top-0 z-[1] flex h-full w-full items-center bg-white justify-center p-8  lg:hidden
         ${click ? "click" : ""}`}
       >
         <ul className="flex flex-col gap-16">

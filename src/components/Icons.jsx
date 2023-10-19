@@ -5,7 +5,6 @@ export function BurgerMenuIcon({ className }) {
     <svg viewBox="0 0 512 358.4" className={className}>
       <defs>
         <linearGradient
-          id="linear-gradient"
           x1="0.5"
           x2="0.5"
           y2="1"
