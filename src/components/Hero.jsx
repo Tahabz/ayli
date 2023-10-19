@@ -28,14 +28,14 @@ export default function Hero() {
             </span>
           </div>
         </div>
-        <button className="bg-horizontalGradient w-[55%] rounded-full py-5 font-normal capitalize text-white sm:w-72 mt-8 lg:w-56">
+        <button className="bg-horizontalGradient mt-8 w-[55%] rounded-full py-5 font-normal capitalize text-white sm:w-72 lg:w-56">
           contactez-nous
         </button>
       </div>
       <img
         src={heroImage}
         alt="Hero"
-        className="hidden w-[25rem] lg:block 2xl:w-auto"
+        className="hero-animation hidden w-[25rem] lg:block 2xl:w-auto"
       />
     </section>
   )
