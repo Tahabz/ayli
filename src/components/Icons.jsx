@@ -100,18 +100,14 @@ export function CheckMarkIcon({ className }) {
 export function CheckMarkSuccess({ className }) {
   return (
     <svg viewBox="0 0 49.056 49.056" className={className}>
-      <g id="Group_512" data-name="Group 512" transform="translate(-169 -1902)">
-        <g id="Group_506" data-name="Group 506" transform="translate(169 1902)">
+      <g  transform="translate(-169 -1902)">
+        <g  data-name="Group 506" transform="translate(169 1902)">
           <path
-            id="Path_131"
-            data-name="Path 131"
             d="M157.573,64.87a1.848,1.848,0,0,0-2.614,0l-22.18,22.121-8-8.691a1.849,1.849,0,0,0-2.72,2.5l9.306,10.106a1.847,1.847,0,0,0,1.321.6h.039a1.851,1.851,0,0,0,1.305-.539l23.542-23.48A1.849,1.849,0,0,0,157.573,64.87Z"
             transform="translate(-109.92 -58.164)"
             fill="#47b852"
           />
           <path
-            id="Path_132"
-            data-name="Path 132"
             d="M47.207,22.679a1.849,1.849,0,0,0-1.849,1.849A20.83,20.83,0,1,1,24.528,3.7a1.849,1.849,0,1,0,0-3.7A24.528,24.528,0,1,0,49.056,24.528,1.849,1.849,0,0,0,47.207,22.679Z"
             fill="#47b852"
           />
