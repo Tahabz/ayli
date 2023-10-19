@@ -100,8 +100,8 @@ export function CheckMarkIcon({ className }) {
 export function CheckMarkSuccess({ className }) {
   return (
     <svg viewBox="0 0 49.056 49.056" className={className}>
-      <g  transform="translate(-169 -1902)">
-        <g  data-name="Group 506" transform="translate(169 1902)">
+      <g transform="translate(-169 -1902)">
+        <g data-name="Group 506" transform="translate(169 1902)">
           <path
             d="M157.573,64.87a1.848,1.848,0,0,0-2.614,0l-22.18,22.121-8-8.691a1.849,1.849,0,0,0-2.72,2.5l9.306,10.106a1.847,1.847,0,0,0,1.321.6h.039a1.851,1.851,0,0,0,1.305-.539l23.542-23.48A1.849,1.849,0,0,0,157.573,64.87Z"
             transform="translate(-109.92 -58.164)"
@@ -535,6 +535,36 @@ export function QuotesIcon({ className }) {
           id="Path_189"
           data-name="Path 189"
           d="M0,59.375v30.14H30.14V59.375H10.047A20.116,20.116,0,0,1,30.14,39.282V29.235A30.172,30.172,0,0,0,0,59.375ZM70.325,39.282V29.235a30.172,30.172,0,0,0-30.14,30.14v30.14h30.14V59.375H50.232A20.116,20.116,0,0,1,70.325,39.282Z"
+          fill="url(#linear-gradient)"
+        />
+      </g>
+    </svg>
+  )
+}
+
+export function ArrowLeftIcon({ className }) {
+  return (
+    <svg viewBox="0 0 28.504 13.807" className={className}>
+      <defs>
+        <linearGradient
+          id="linear-gradient"
+          x1="0.088"
+          y1="0.5"
+          x2="1"
+          y2="0.5"
+          gradientUnits="objectBoundingBox"
+        >
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.289" stop-color="#eb66ac" />
+          <stop offset="0.904" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
+        </linearGradient>
+      </defs>
+      <g id="Group_497" data-name="Group 497" transform="translate(0 -132)">
+        <path
+          id="Path_129"
+          data-name="Path 129"
+          d="M28.178,138.115h0l-5.818-5.79a1.113,1.113,0,0,0-1.571,1.578l3.906,3.887H1.113a1.113,1.113,0,0,0,0,2.227H24.694L20.788,143.9a1.113,1.113,0,0,0,1.571,1.578l5.818-5.79h0A1.114,1.114,0,0,0,28.178,138.115Z"
           fill="url(#linear-gradient)"
         />
       </g>

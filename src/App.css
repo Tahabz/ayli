@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body {
-  @apply font-poppins h-full w-full;
+  @apply h-full w-full font-poppins;
 }
 
 #root {
@@ -24,6 +24,10 @@ body {
   animation: heroAnimation 1.8s infinite;
 }
 
+.arrow-animation {
+  animation: arrowAnimation 1s ease-in-out infinite;
+}
+
 @keyframes heroAnimation {
   0%,
   100% {
@@ -32,5 +36,16 @@ body {
 
   50% {
     transform: translate(0px, 15px);
+  }
+}
+
+@keyframes arrowAnimation {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+
+  50% {
+    transform: translate(5px, 0);
   }
 }

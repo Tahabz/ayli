@@ -17,6 +17,9 @@ module.exports = {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      animation: {
+        "arrowAnimation": "arrowAnimation 1s ease-in-out infinite",
+      },
     },
   },
   plugins: [],
