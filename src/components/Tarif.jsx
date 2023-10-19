@@ -3,9 +3,9 @@ import { LineIcon, TimeLine } from "./Icons"
 
 export default function Tarif() {
   return (
-    <section className="flex flex-col items-center gap-[6rem] px-8 pt-[8rem] lg:gap-[8rem] lg:pt-[11rem]">
+    <section className="flex flex-col items-center gap-[6rem] pt-[8rem] lg:gap-[8rem] lg:pt-[11rem]">
       <div className="flex flex-col items-center gap-2">
-        <h1 className="text-center text-[1.7rem] font-semibold text-primary lg:text-[2rem]">
+        <h1 className="text-center text-[1.7rem] px-8 md:px-0 font-semibold text-primary lg:text-[2rem]">
           Tarif fixe et transparent
           <span className="text-active"> 400€/mois</span>
         </h1>
@@ -16,7 +16,7 @@ export default function Tarif() {
           </div>
         </span>
       </div>
-      <TimeLine className="md:relative md:w-[40rem] lg:w-[50rem]" />
+      <TimeLine className="md:relative px-4 md:px-0 md:w-[40rem] lg:w-[50rem]" />
     </section>
   )
 }

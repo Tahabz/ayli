@@ -3,6 +3,9 @@ module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
     extend: {
+      screens: {
+        mlg: "1088px",
+      },
       colors: {
         primary: "#09429A",
         active: "#E2287B",
@@ -18,7 +21,7 @@ module.exports = {
         poppins: ["Poppins", "sans-serif"],
       },
       animation: {
-        "arrowAnimation": "arrowAnimation 1s ease-in-out infinite",
+        arrowAnimation: "arrowAnimation 1s ease-in-out infinite",
       },
     },
   },

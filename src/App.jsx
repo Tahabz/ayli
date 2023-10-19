@@ -4,6 +4,7 @@ import Hero from "./components/Hero"
 import NavBar from "./components/NavBar"
 import Offers from "./components/Offers"
 import Tarif from "./components/Tarif"
+import WhyPortAyli from "./components/WhyPortAyli"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Offers />
       <Advantages />
       <Tarif />
+      <WhyPortAyli />
     </>
   )
 }

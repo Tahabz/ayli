@@ -9,7 +9,7 @@ export default function Hero() {
       className="items-center justify-between px-8 pt-[11rem] lg:flex lg:pt-[15rem] 2xl:justify-between"
     >
       <div className="flex flex-col items-center gap-10 lg:items-start">
-        <h1 className="text-3xl font-semibold text-primary md:text-[2.5rem]">
+        <h1 className="text-3xl font-semibold text-center text-primary md:text-[2.5rem]">
           Payez moins, gagnez plus 
         </h1>
         <div className="flex flex-col gap-5">
