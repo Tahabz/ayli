@@ -14,7 +14,7 @@ export default function ItemService({
     setViewMore(!viewMore)
   }
   return (
-    <div className="flex flex-col items-center gap-4 h-[8rem]">
+    <div className="flex flex-col items-center gap-4">
       <div className="flex flex-col items-center gap-4">
         {icon}
         <span
