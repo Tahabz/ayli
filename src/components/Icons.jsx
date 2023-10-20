@@ -628,6 +628,49 @@ export function ThreeIcon({ className }) {
   )
 }
 
+export function ContractIcon({ className }) {
+  return (
+    <svg viewBox="0 0 108.073 120.589" className={className}>
+      <defs>
+        <linearGradient
+          id="linear-gradient"
+          x1="0.5"
+          x2="0.5"
+          y2="1"
+          gradientUnits="objectBoundingBox"
+        >
+          <stop offset="0" stop-color="#ef7ec0" />
+          <stop offset="0.297" stop-color="#eb66ac" />
+          <stop offset="0.912" stop-color="#e2287b" />
+          <stop offset="1" stop-color="#e11f74" />
+        </linearGradient>
+      </defs>
+      <g id="Group_693" data-name="Group 693" transform="translate(-26.57)">
+        <path
+          id="Path_207"
+          data-name="Path 207"
+          d="M164.4,204.711A4.71,4.71,0,0,0,159.688,200H111.17a4.711,4.711,0,1,0,0,9.421h48.518A4.71,4.71,0,0,0,164.4,204.711Zm-53.229,14.132a4.71,4.71,0,1,0,0,9.421h29.467a4.71,4.71,0,1,0,0-9.421Z"
+          transform="translate(-61.073 -152.895)"
+          fill="url(#linear-gradient)"
+        />
+        <path
+          id="Path_208"
+          data-name="Path 208"
+          d="M61.166,111.168H45.412a9.432,9.432,0,0,1-9.421-9.421v-82.9a9.432,9.432,0,0,1,9.421-9.421h57.913a9.432,9.432,0,0,1,9.421,9.421v28.97a4.71,4.71,0,1,0,9.421,0V18.842A18.863,18.863,0,0,0,103.325,0H45.412A18.863,18.863,0,0,0,26.57,18.842v82.9a18.863,18.863,0,0,0,18.842,18.842H61.166a4.71,4.71,0,0,0,0-9.421Z"
+          fill="url(#linear-gradient)"
+        />
+        <path
+          id="Path_209"
+          data-name="Path 209"
+          d="M191.584,159.938a14.146,14.146,0,0,0-19.981,0l-25.861,25.8a4.712,4.712,0,0,0-1.18,1.965l-5.632,18.542a4.711,4.711,0,0,0,5.765,5.909l19.013-5.267a4.709,4.709,0,0,0,2.07-1.206l25.807-25.759A14.148,14.148,0,0,0,191.584,159.938ZM160,198.14l-9.565,2.65,2.8-9.216,17.45-17.411,6.663,6.663Zm24.928-24.88-.913.911-6.662-6.662.91-.908a4.711,4.711,0,0,1,6.665,6.659ZM159.688,120H111.17a4.711,4.711,0,1,0,0,9.421h48.518a4.711,4.711,0,0,0,0-9.421Z"
+          transform="translate(-61.073 -91.737)"
+          fill="url(#linear-gradient)"
+        />
+      </g>
+    </svg>
+  )
+}
+
 export function TimeLine({ className }) {
   return (
     <>

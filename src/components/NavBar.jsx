@@ -28,9 +28,9 @@ export default function NavBar() {
                     offset={e.page === "about" ? -100 : -150}
                     duration={300}
                     delay={100}
-                    className={`cursor-pointer capitalize ${
-                      active === index ? "text-active" : "text-gray font-light"
-                    } hover:text-active hover:font-normal`}
+                    className={`cursor-pointer capitalize  ${
+                      active === index ? "text-active" : "text-gray"
+                    } hover:text-active`}
                     onClick={() => {
                       setActive(index)
                     }}
@@ -89,8 +89,8 @@ export default function NavBar() {
                   duration={300}
                   delay={100}
                   className={`cursor-pointer capitalize ${
-                    active === index ? "text-active" : "text-gray font-light"
-                  } hover:text-active hover:font-normal`}
+                    active === index ? "text-active" : "text-gray"
+                  } hover:text-active`}
                   onClick={() => {
                     setActive(index)
                     setClick(false)
