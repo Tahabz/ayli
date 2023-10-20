@@ -423,10 +423,10 @@ export function BagIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.314" stop-color="#eb66ac" />
-          <stop offset="0.912" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.314" stopColor="#eb66ac" />
+          <stop offset="0.912" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g
@@ -439,7 +439,7 @@ export function BagIcon({ className }) {
           data-name="Path 210"
           d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
           transform="translate(0 0)"
-          fill-rule="evenodd"
+          fillRule="evenodd"
           fill="url(#linear-gradient)"
         />
       </g>
@@ -458,10 +458,10 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.314" stop-color="#eb66ac" />
-          <stop offset="0.912" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.314" stopColor="#eb66ac" />
+          <stop offset="0.912" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
         <linearGradient
           id="linear-gradient-2"
@@ -470,10 +470,10 @@ export function BagStarIcon({ className }) {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.272" stop-color="#eb66ac" />
-          <stop offset="0.912" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.272" stopColor="#eb66ac" />
+          <stop offset="0.912" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_708" data-name="Group 708" transform="translate(-478 -3482)">
@@ -487,7 +487,7 @@ export function BagStarIcon({ className }) {
             data-name="Path 210"
             d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
             transform="translate(0 0)"
-            fill-rule="evenodd"
+            fillRule="evenodd"
             fill="url(#linear-gradient)"
           />
         </g>
@@ -550,10 +550,10 @@ export function ArrowLeftIcon({ className }) {
           y2="0.5"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#ef7ec0" />
-          <stop offset="0.289" stop-color="#eb66ac" />
-          <stop offset="0.904" stop-color="#e2287b" />
-          <stop offset="1" stop-color="#e11f74" />
+          <stop offset="0" stopColor="#ef7ec0" />
+          <stop offset="0.289" stopColor="#eb66ac" />
+          <stop offset="0.904" stopColor="#e2287b" />
+          <stop offset="1" stopColor="#e11f74" />
         </linearGradient>
       </defs>
       <g id="Group_497" data-name="Group 497" transform="translate(0 -132)">
@@ -578,7 +578,7 @@ export function OneIcon({ className }) {
         transform="translate(36.649 155.57)"
         fill="none"
         stroke="#e2287b"
-        stroke-width="6"
+        strokeWidth="6"
       />
     </svg>
   )
@@ -599,7 +599,7 @@ export function TwoIcon({ className }) {
           transform="translate(698.5 4396.5)"
           fill="none"
           stroke="#e2287b"
-          stroke-width="6"
+          strokeWidth="6"
         />
         <path
           id="Path_213"
@@ -622,7 +622,7 @@ export function ThreeIcon({ className }) {
         transform="translate(57.547 159.123)"
         fill="none"
         stroke="#e2287b"
-        stroke-width="6"
+        strokeWidth="6"
       />
     </svg>
   )
@@ -640,10 +640,10 @@ export function TimeLine({ className }) {
             y2="1"
             gradientUnits="objectBoundingBox"
           >
-            <stop offset="0" stop-color="#ef7ec0" />
-            <stop offset="0.276" stop-color="#eb66ac" />
-            <stop offset="0.904" stop-color="#e2287b" />
-            <stop offset="1" stop-color="#e11f74" />
+            <stop offset="0" stopColor="#ef7ec0" />
+            <stop offset="0.276" stopColor="#eb66ac" />
+            <stop offset="0.904" stopColor="#e2287b" />
+            <stop offset="1" stopColor="#e11f74" />
           </linearGradient>
           <linearGradient
             id="linear-gradient-4"
@@ -652,10 +652,10 @@ export function TimeLine({ className }) {
             y2="1"
             gradientUnits="objectBoundingBox"
           >
-            <stop offset="0" stop-color="#ef7ec0" />
-            <stop offset="0.222" stop-color="#eb66ac" />
-            <stop offset="0.895" stop-color="#e2287b" />
-            <stop offset="1" stop-color="#e11f74" />
+            <stop offset="0" stopColor="#ef7ec0" />
+            <stop offset="0.222" stopColor="#eb66ac" />
+            <stop offset="0.895" stopColor="#e2287b" />
+            <stop offset="1" stopColor="#e11f74" />
           </linearGradient>
           <linearGradient
             id="linear-gradient-6"
@@ -664,10 +664,10 @@ export function TimeLine({ className }) {
             y2="1"
             gradientUnits="objectBoundingBox"
           >
-            <stop offset="0" stop-color="#ef7ec0" />
-            <stop offset="0.314" stop-color="#eb66ac" />
-            <stop offset="0.912" stop-color="#e2287b" />
-            <stop offset="1" stop-color="#e11f74" />
+            <stop offset="0" stopColor="#ef7ec0" />
+            <stop offset="0.314" stopColor="#eb66ac" />
+            <stop offset="0.912" stopColor="#e2287b" />
+            <stop offset="1" stopColor="#e11f74" />
           </linearGradient>
           <linearGradient
             id="linear-gradient-8"
@@ -676,10 +676,10 @@ export function TimeLine({ className }) {
             y2="1"
             gradientUnits="objectBoundingBox"
           >
-            <stop offset="0" stop-color="#ef7ec0" />
-            <stop offset="0.272" stop-color="#eb66ac" />
-            <stop offset="0.912" stop-color="#e2287b" />
-            <stop offset="1" stop-color="#e11f74" />
+            <stop offset="0" stopColor="#ef7ec0" />
+            <stop offset="0.272" stopColor="#eb66ac" />
+            <stop offset="0.912" stopColor="#e2287b" />
+            <stop offset="1" stopColor="#e11f74" />
           </linearGradient>
         </defs>
         <g
@@ -699,7 +699,7 @@ export function TimeLine({ className }) {
               transform="translate(830.5 2843)"
               fill="none"
               stroke="#09429a"
-              stroke-width="2"
+              strokeWidth="2"
             />
             <line
               id="Line_3"
@@ -708,7 +708,7 @@ export function TimeLine({ className }) {
               transform="translate(830.5 3084.416)"
               fill="none"
               stroke="#09429a"
-              stroke-width="2"
+              strokeWidth="2"
             />
             <g
               id="Group_668"
@@ -821,9 +821,9 @@ export function TimeLine({ className }) {
 salarial"
                 transform="translate(1200 2913)"
                 fill="#09429a"
-                font-size="28"
-                font-family="Poppins-Medium, Poppins"
-                font-weight="500"
+                fontSize="28"
+                fontFamily="Poppins-Medium, Poppins"
+                fontWeight="500"
               >
                 <tspan x="0" y="0">
                   Consultant en portage
@@ -854,9 +854,9 @@ salarial"
                 data-name="Société de portage"
                 transform="translate(532 3140)"
                 fill="#09429a"
-                font-size="28"
-                font-family="Poppins-Medium, Poppins"
-                font-weight="500"
+                fontSize="28"
+                fontFamily="Poppins-Medium, Poppins"
+                fontWeight="500"
               >
                 <tspan x="0" y="0">
                   Société de portage
@@ -872,7 +872,7 @@ salarial"
                   data-name="Path 210"
                   d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
                   transform="translate(0 0)"
-                  fill-rule="evenodd"
+                  fillRule="evenodd"
                   fill="url(#linear-gradient-6)"
                 />
               </g>
@@ -898,9 +898,9 @@ salarial"
                 data-name="Société cliente"
                 transform="translate(1218.915 3385)"
                 fill="#09429a"
-                font-size="28"
-                font-family="Poppins-Medium, Poppins"
-                font-weight="500"
+                fontSize="28"
+                fontFamily="Poppins-Medium, Poppins"
+                fontWeight="500"
               >
                 <tspan x="0" y="0">
                   Société cliente
@@ -921,7 +921,7 @@ salarial"
                     data-name="Path 210"
                     d="M20.5,15.839v-4.5a6.731,6.731,0,0,1,5.731-6.654l4.693-.7a52.887,52.887,0,0,1,15.693,0l4.693.7a6.731,6.731,0,0,1,5.731,6.654v4.5l6.593.531a11,11,0,0,1,9.974,9.208,104.343,104.343,0,0,1,0,33.363,11,11,0,0,1-9.974,9.208l-7.2.577a219.541,219.541,0,0,1-35.325,0l-7.2-.577a11,11,0,0,1-9.974-9.208,104.347,104.347,0,0,1,0-33.363,11,11,0,0,1,9.974-9.2ZM31.784,9.685a47.118,47.118,0,0,1,13.978,0l4.693.7a.962.962,0,0,1,.819.95v4.1a219.543,219.543,0,0,0-25,0v-4.1a.962.962,0,0,1,.819-.95ZM21.575,21.54a213.923,213.923,0,0,1,34.394,0l7.2.585A5.231,5.231,0,0,1,67.916,26.5c.238,1.481.442,2.962.615,4.454a67.376,67.376,0,0,1-59.518,0q.254-2.233.615-4.454a5.231,5.231,0,0,1,4.746-4.377ZM8.5,37.094a73.149,73.149,0,0,0,60.549,0,98.573,98.573,0,0,1-1.131,20.924A5.231,5.231,0,0,1,63.17,62.4l-7.2.577a213.922,213.922,0,0,1-34.394,0l-7.2-.577a5.231,5.231,0,0,1-4.746-4.381A98.532,98.532,0,0,1,8.5,37.094Z"
                     transform="translate(0 0)"
-                    fill-rule="evenodd"
+                    fillRule="evenodd"
                     fill="url(#linear-gradient-6)"
                   />
                 </g>

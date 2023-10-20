@@ -10,6 +10,7 @@ module.exports = {
         primary: "#09429A",
         active: "#E2287B",
         gray: "#B4B4B4",
+        grayLight: "#FBFBFB",
       },
       backgroundImage: {
         horizontalGradient:

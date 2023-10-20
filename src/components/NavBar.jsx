@@ -9,12 +9,12 @@ export default function NavBar() {
   const links = [
     { page: "acceuil", idSection: "hero" },
     { page: "contact" },
-    { page: "ayli" },
+    { page: "pourquoi ayli ?" },
     { page: "aylishare" },
   ]
   return (
     <>
-      <nav className="fixed left-0 top-0 z-[1] hidden w-full p-8 backdrop-blur-md lg:block">
+      <nav className="fixed left-0 top-0 z-[2] hidden w-full p-8 backdrop-blur-md lg:block">
         <ul className="2xl:container 2xl:mx-auto flex items-center justify-between">
           <img src={logo} alt="Logo PORTAYLI" className="relative w-16" />
           <div className="flex  items-center lg:gap-24 2xl:gap-40">
@@ -43,7 +43,7 @@ export default function NavBar() {
           </div>
         </ul>
       </nav>
-      <div className="fixed top-0 z-[3] flex w-full items-start justify-between px-8 py-5 backdrop-blur-md lg:hidden">
+      <div className="fixed top-0 z-[4] flex w-full items-start justify-between px-8 py-5 backdrop-blur-md lg:hidden">
         <img
           src={logo}
           alt="Logo PORTAYLI"
@@ -51,7 +51,7 @@ export default function NavBar() {
         />
         {click ? (
           <button
-            className={`relative z-[2] flex h-8 w-8 items-end justify-end ${
+            className={`relative z-[3] flex h-8 w-8 items-end justify-end ${
               click ? "click" : ""
             }`}
             onClick={() => {
@@ -63,7 +63,7 @@ export default function NavBar() {
           </button>
         ) : (
           <button
-            className={`relative z-[2] h-8 w-8 ${click ? "click" : ""}`}
+            className={`relative z-[3] h-8 w-8 ${click ? "click" : ""}`}
             onClick={() => {
               setClick(true)
               document.body.style.overflow = "hidden"
@@ -74,7 +74,7 @@ export default function NavBar() {
         )}
       </div>
       <nav
-        className={`nav fixed left-0 top-0 z-[1] flex h-full w-full items-center bg-white justify-center p-8  lg:hidden
+        className={`nav fixed left-0 top-0 z-[2] flex h-full w-full items-center bg-white justify-center p-8  lg:hidden
         ${click ? "click" : ""}`}
       >
         <ul className="flex flex-col gap-16">

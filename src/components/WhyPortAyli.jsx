@@ -4,7 +4,7 @@ import NumberItem from "./NumberItem"
 
 export default function WhyPortAyli() {
   return (
-    <section className="flex flex-col items-center gap-[6rem]  px-8 pt-[8rem] lg:items-start lg:pt-[11rem]">
+    <section id="pourquoi ayli ?" className="flex flex-col items-center gap-[6rem] lg:gap-[10rem]  px-8 mt-[8rem] lg:items-start lg:mt-[11rem]">
       <h1 className="w-[20rem] text-center text-[1.7rem] font-semibold text-primary md:w-[25rem] lg:w-full lg:text-[2rem]">
         Pourquoi Choisir PORTAYLI ?
       </h1>
