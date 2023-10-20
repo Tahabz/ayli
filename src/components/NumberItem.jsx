@@ -26,7 +26,7 @@ export default function NumberItem({
             className="group mt-2 flex items-center gap-[.5rem]  text-active"
             onClick={handelViewMore}
           >
-            {viewMore ? "Voir moins" : "Voir plus"}{" "}
+            {viewMore ? "Voir moins" : "Voir plus"}
             <ArrowLeftIcon className="group-hover:animate-arrowAnimation h-5 w-5" />
           </button>
         </div>

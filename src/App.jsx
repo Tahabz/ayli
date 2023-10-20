@@ -5,6 +5,7 @@ import Hero from "./components/Hero"
 import NavBar from "./components/NavBar"
 import Offers from "./components/Offers"
 import Tarif from "./components/Tarif"
+import HowPortAyliWork from "./components/HowPortAyliWork"
 import WhyPortAyli from "./components/WhyPortAyli"
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Tarif />
       <WhyPortAyli />
       <Feedbacks />
+      <HowPortAyliWork />
     </>
   )
 }
