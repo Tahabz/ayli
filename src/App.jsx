@@ -7,6 +7,7 @@ import Offers from "./components/Offers"
 import Tarif from "./components/Tarif"
 import HowPortAyliWork from "./components/HowPortAyliWork"
 import WhyPortAyli from "./components/WhyPortAyli"
+import Contact from "./components/Contact"
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <WhyPortAyli />
       <Feedbacks />
       <HowPortAyliWork />
+      <Contact />
     </>
   )
 }
